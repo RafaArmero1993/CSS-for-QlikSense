@@ -21,9 +21,7 @@ div[tid="PajXCHu"]{
 }
 
 .qvt-sheet-container #grid-wrap{
-    background: url("img/background_thinner.png");
-    background-repeat: repeat-x;
-    background-size: auto 100%;
+    background-color: '#f2e9d8';
 }
 
 div[tid="SPLPpQw"] {
