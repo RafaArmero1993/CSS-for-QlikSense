@@ -67,6 +67,10 @@ div[tid="vgYJCJ"] .qv-collapsed-listbox{
     border: 0px;
 }
 
+div[tid="vgYJCJ"] .title{
+    text-align:center;
+}
+
 div[tid="dExv"]{
     background: url("img/boton_Flipper.png");
     background-size: auto;
