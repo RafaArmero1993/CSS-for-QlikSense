@@ -80,3 +80,8 @@ div[tid="dExv"]{
     left: calc(0% + 0px) !important;
     top: calc(0% + 0px) !important;
 }
+
+div[tid="dExv"] button{
+    background-color: transparent;
+    color:transparent;
+}
