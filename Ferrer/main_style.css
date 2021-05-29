@@ -1,9 +1,9 @@
-.qv-panel-content {
+.qvt-sheet-container {
     background: url("img/background_thinner.png");
     background-repeat: repeat-x;
     background-size: auto;
 }
 
-.sheet-title-text{
+.qvt-sheet-container  .sheet-title-text{
     display:none;
 }
