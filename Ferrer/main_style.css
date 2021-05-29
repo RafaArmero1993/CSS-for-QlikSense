@@ -10,6 +10,10 @@
     display:none !important;
 }
 
+.qs-page-container{
+	height:100% !important;
+}
+
 .qvt-sheet-container #grid-wrap{
     background: url("img/background_thinner.png");
     background-repeat: repeat-x;
