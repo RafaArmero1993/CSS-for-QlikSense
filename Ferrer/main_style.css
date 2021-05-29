@@ -29,6 +29,10 @@ div[tid="PajXCHu"]{
 div[tid="SPLPpQw"] {
     background: url("img/background_graphs.png");
     background-size: 100% 100%;
+    width: calc(50% - 4px);
+    height: calc(83.3333% - 4px);
+    left: calc(25% + 2px);
+    top: calc(8.3333% + 2px);
 }
 
 div[tid="SPLPpQw"] *{
