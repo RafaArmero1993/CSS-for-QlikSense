@@ -34,3 +34,7 @@ div[tid="SPLPpQw"] {
 div[tid="SPLPpQw"] *{
     background-color: transparent !important;
 }
+
+div[tid="SPLPpQw"] .qsc-tab-row{
+    display:none;
+}
