@@ -1,9 +1,12 @@
 /*
-.qvt-sheet-container  .sheet-title-container{
+
+.qvt-selections{
     display:none !important;
 }
 
-.qvt-selections{
+*/
+
+.qvt-sheet-container  .sheet-title-container{
     display:none !important;
 }
 
@@ -14,7 +17,7 @@
 #qs-page-container{
 	height:100% !important;
 }
-*/
+
 
 div[tid="PajXCHu"]{
     display:none;
