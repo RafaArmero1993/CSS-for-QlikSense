@@ -62,7 +62,7 @@ div[tid="vgYJCJ"] .qv-state-count-bar{
     display:none;
 }
 
-div[tid="vgYJCJ"] .qv-collapsed-listbox{
+div[tid="vgYJCJ"] .qv-collapsed-listbox, div[tid="vgYJCJ"] .qv-collapsed-listbox:hover{
     background-color: transparent !important;
     border: 0px;
 }
