@@ -1,4 +1,4 @@
-.qvt-sheet-container .grid-wrap{
+.qvt-sheet-container #grid-wrap{
     background: url("img/background_thinner.png");
     background-repeat: repeat-x;
     background-size: auto;
