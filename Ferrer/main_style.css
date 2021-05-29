@@ -1,6 +1,6 @@
 .qv-panel-content {
     background: url("img/background_thinner.png");
-    background-repeat: no-repeat;
+    background-repeat: repeat-x;
     background-size: auto;
 }
 
