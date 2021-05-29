@@ -15,7 +15,7 @@
 #qs-page-container{
 	height:100% !important;
 }
-*/
+/**/
 
 
 div[tid="PajXCHu"]{
@@ -52,7 +52,6 @@ div[tid="SPLPpQw"] .qsc-tab-row{
     display:none;
 }
 
-/*
 div[tid="vgYJCJ"] {
     background-color: transparent;
     width: calc(76% - 0px) !important;
@@ -73,7 +72,6 @@ div[tid="vgYJCJ"] .qv-collapsed-listbox, div[tid="vgYJCJ"] .qv-collapsed-listbox
 div[tid="vgYJCJ"] .title{
     text-align:center !important;
 }
-*/
 
 div[tid="dExv"]{
     background: url("img/botton_Fliper.png");
