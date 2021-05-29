@@ -57,3 +57,12 @@ div[tid="vgYJCJ"] {
     left: calc(0% + 0px) !important;
     top: calc(0% + 0px) !important;
 }
+
+div[tid="vgYJCJ"] .qv-state-count-bar{
+    display:none;
+}
+
+div[tid="vgYJCJ"] .qv-collapsed-listbox{
+    background-color: transparent;
+    border: 0px;
+}
