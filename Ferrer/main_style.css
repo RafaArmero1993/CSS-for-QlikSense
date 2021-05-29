@@ -7,3 +7,7 @@
 .qvt-sheet-container  .sheet-title-container{
     display:none;
 }
+
+qvt-selections{
+    display:none;
+}
