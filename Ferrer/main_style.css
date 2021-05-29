@@ -26,3 +26,8 @@
     background-repeat: repeat-x;
     background-size: auto 100%;
 }
+
+div[tid="SPLPpQw"] {
+    background: url("img/background_graphs.png");
+    background-size: 100% 100%;
+}
