@@ -16,6 +16,11 @@
 }
 */
 
+.qv-object-qsSimpleKPI{
+    height:0px !important;
+    width: 0px "important
+}
+
 .qvt-sheet-container #grid-wrap{
     background: url("img/background_thinner.png");
     background-repeat: repeat-x;
