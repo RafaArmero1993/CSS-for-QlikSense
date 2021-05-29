@@ -74,7 +74,7 @@ div[tid="vgYJCJ"] .title{
 div[tid="dExv"]{
     background: url("img/botton_Fliper.png");
     background-size: auto;
-    background-repeat: none;
+    background-repeat: no-repeat
     border: 0px;
     width: calc(20% - 0px) !important;
     height: calc(15% - 0px) !important;
@@ -83,9 +83,9 @@ div[tid="dExv"]{
 }
 
 div[tid="NPhveVy"]{
-    background: url("img/botton_Fliper.png");
+    background: url("img/botton_Fliper_2.png");
     background-size: auto;
-    background-repeat: none;
+    background-repeat: no-repeat
     border: 0px;
     width: calc(20% - 0px) !important;
     height: calc(15% - 0px) !important;
