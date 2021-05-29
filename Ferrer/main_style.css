@@ -30,3 +30,7 @@ div[tid="SPLPpQw"] {
     background: url("img/background_graphs.png");
     background-size: 100% 100%;
 }
+
+div[tid="SPLPpQw"] .qv-inner-object{
+    background-color: transparent;
+}
