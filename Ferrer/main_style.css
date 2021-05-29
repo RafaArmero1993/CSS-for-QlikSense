@@ -1,5 +1,5 @@
-.qv-panel-content div {
-    background: url("img/background.png");
+.qv-panel-content {
+    background: url("img/background_thinner.png");
     background-repeat: no-repeat;
     background-size: auto;
 }
