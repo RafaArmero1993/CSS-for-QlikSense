@@ -5,13 +5,13 @@
 }
 
 .qvt-sheet-container  .sheet-title-container{
-    display:none;
+    display:none !important;
 }
 
 qvt-selections{
-    display:none;
+    display:none !important;
 }
 
 qs-header{
-    display:none;
+    display:none !important;
 }
