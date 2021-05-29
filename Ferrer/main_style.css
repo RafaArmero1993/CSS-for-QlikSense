@@ -82,6 +82,6 @@ div[tid="dExv"]{
 }
 
 div[tid="dExv"] button{
-    background-color: transparent;
-    color:transparent;
+    background-color: transparent !important;
+    color:transparent !important;
 }
