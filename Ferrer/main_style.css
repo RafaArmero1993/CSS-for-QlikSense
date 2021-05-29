@@ -63,6 +63,6 @@ div[tid="vgYJCJ"] .qv-state-count-bar{
 }
 
 div[tid="vgYJCJ"] .qv-collapsed-listbox{
-    background-color: transparent;
+    background-color: transparent !important;
     border: 0px;
 }
