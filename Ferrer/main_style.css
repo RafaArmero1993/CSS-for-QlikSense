@@ -1,3 +1,4 @@
+/*
 .qvt-sheet-container  .sheet-title-container{
     display:none !important;
 }
@@ -13,6 +14,7 @@
 #qs-page-container{
 	height:100% !important;
 }
+*/
 
 .qvt-sheet-container #grid-wrap{
     background: url("img/background_thinner.png");
