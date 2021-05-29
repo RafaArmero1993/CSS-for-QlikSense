@@ -37,7 +37,7 @@ div[tid="SPLPpQw"] {
 }
 
 div[tid="SPLPpQw"] .qv-object-container{
-    border:none;
+    border:none !important;
 }
 
 div[tid="SPLPpQw"] *{
