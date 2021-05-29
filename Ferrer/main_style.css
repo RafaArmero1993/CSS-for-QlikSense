@@ -31,6 +31,6 @@ div[tid="SPLPpQw"] {
     background-size: 100% 100%;
 }
 
-div[tid="SPLPpQw"] div{
-    background-color: transparent;
+div[tid="SPLPpQw"] *{
+    background-color: transparent !important;
 }
