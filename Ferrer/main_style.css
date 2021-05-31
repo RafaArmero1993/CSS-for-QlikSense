@@ -25,11 +25,15 @@ div[tid="PajXCHu"]{
     background-color: #f2e9d8;
 }
 
+div[tid="feyLD"]{
+    border: 0px !important;
+}
+
 div[tid="feyLD"] .qv-object-piechart{
-    background: url("img/background_graphs - 2.png");
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: 100% auto;
+    background: url("img/background_graphs - 2.png") !important;
+    background-repeat: no-repeat !important;
+    background-position: center !important;
+    background-size: 100% auto !important;
 }
 
 
@@ -42,7 +46,7 @@ div[tid="feyLD"] *{
 }
 
 div[tid="feyLD"] .qv-object-header{
-    display:none;
+    display:none !important;
 }
 
 div[tid="feyLD"] .qsc-tab-row, div[tid="feyLD"] .sel-toolbar-list{
