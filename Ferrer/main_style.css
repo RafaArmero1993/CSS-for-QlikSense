@@ -71,24 +71,16 @@ div[tid="Ezmpxv"] .title{
     text-align:center !important;
 }
 
-div[tid="dExv"]{
+div[tid="AAAxfxG"]{
     background: url("img/botton_Fliper.png");
-    background-size: auto;
-    background-repeat: no-repeat;
-    border: 0px;
-    width: calc(12% - 0px) !important;
-    height: calc(14% - 0px) !important;
-    left: calc(0% + 0px) !important;
-    top: calc(0% + 0px) !important;
+    background-repeat: no-repeat !important;
+    background-position: center !important;
+    background-size: 100% auto !important;
 }
 
-div[tid="NPhveVy"]{
-    background: url("img/botton_Fliper_2.png");
-    background-size: auto;
-    background-repeat: no-repeat;
-    border: 0px;
-    width: calc(12% - 0px) !important;
-    height: calc(14% - 0px) !important;
-    left: calc(88% + 0px) !important;
-    top: calc(0% + 0px) !important;
+div[tid="kSbGm"]{
+    background: url("img/botton_Fliper.png");
+    background-repeat: no-repeat !important;
+    background-position: center !important;
+    background-size: 100% auto !important;
 }
