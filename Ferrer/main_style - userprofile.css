@@ -28,24 +28,6 @@ div[tid="feBpWK"] .qv-object-piechart, div[tid="WzCmzRe"] .qv-object-piechart, d
     background-size: 75% auto !important;
 }
 
-div[tid="feBpWK"] *, div[tid="WzCmzRe"] *, div[tid="tXJUR"] *,div[tid="hwjPkpD"] *{
-    background-color: transparent !important;
-}
-
-div[tid="feBpWK"] .lui-tab_text, div[tid="WzCmzRe"] .lui-tab_text, div[tid="tXJUR"] .lui-tab_text,div[tid="hwjPkpD"] .lui-tab_text{
-    color: transparent !important;
-}
-
-/*
-div[tid="feBpWK"] .lui-tab, div[tid="tXJUR"] .lui-tab, div[tid="WzCmzRe"] .lui-tab, div[tid="hwjPkpD"] .lui-tab{
-    border-bottom: transparent !important;
-}
-
-div[tid="feBpWK"] .qsc-item-wrapper, div[tid="tXJUR"] .qsc-item-wrapper, div[tid="WzCmzRe"] .qsc-item-wrapper, div[tid="hwjPkpD"] .qsc-item-wrapper{
-    border: 0px !important;
-}
-*/
-
 div[tid="FaxBwgt"] .qv-state-count-bar{
     display:none;
 }
