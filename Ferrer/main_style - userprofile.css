@@ -2,54 +2,54 @@
     background-color: #eaf3f5;
 }
 
-div[tid="feyLD"]{
+div[tid="feBpWK"]{
     border: 0px !important;
 }
 
-div[tid="feyLD"] .qv-object-piechart, div[tid="feyLD"] .qv-object-scatterplot{
+div[tid="feBpWK"] .qv-object-piechart, div[tid="feBpWK"] .qv-object-scatterplot{
     background: url("img/background_graphs - 2.png") !important;
     background-repeat: no-repeat !important;
     background-position: center !important;
     background-size: 100% auto !important;
 }
 
-div[tid="feyLD"] *{
+div[tid="feBpWK"] *{
     background-color: transparent !important;
 }
 
-div[tid="feyLD"] .lui-tab_text{
+div[tid="feBpWK"] .lui-tab_text{
     color: transparent !important;
 }
 
-div[tid="feyLD"] .lui-tab{
+div[tid="feBpWK"] .lui-tab{
     border-bottom: transparent !important;
 }
 
-div[tid="feyLD"] .qsc-item-wrapper{
+div[tid="feBpWK"] .qsc-item-wrapper{
     border: 0px !important;
 }
 
-div[tid="Ezmpxv"] .qv-state-count-bar{
+div[tid="FaxBwgt"] .qv-state-count-bar{
     display:none;
 }
 
-div[tid="Ezmpxv"] .qv-collapsed-listbox, div[tid="Ezmpxv"] .qv-collapsed-listbox:hover{
+div[tid="FaxBwgt"] .qv-collapsed-listbox, div[tid="FaxBwgt"] .qv-collapsed-listbox:hover{
     background-color: transparent !important;
     border: 0px;
 }
 
-div[tid="Ezmpxv"] .title{
+div[tid="FaxBwgt"] .title{
     text-align:center !important;
 }
 
-div[tid="gfwPtbs"]{
+div[tid="zPPmubU"]{
     background: url("img/botton_Fliper.png");
     background-repeat: no-repeat !important;
     background-position: center !important;
     background-size: 100% auto !important;
 }
 
-div[tid="kSbGm"]{
+div[tid="RAPhJR"]{
     background: url("img/botton_Fliper_2.png");
     background-repeat: no-repeat !important;
     background-position: center !important;
