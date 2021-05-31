@@ -36,11 +36,6 @@ div[tid="feyLD"] .qv-object-piechart{
     background-size: 100% auto !important;
 }
 
-
-div[tid="feyLD"] .qv-object-container{
-    border:none !important;
-}
-
 div[tid="feyLD"] *{
     background-color: transparent !important;
 }
@@ -49,8 +44,8 @@ div[tid="feyLD"] .lui-tab_text{
     color: transparent !important;
 }
 
-div[tid="feyLD"] .qsc-item_wrapper,div[tid="feyLD"] .qsc-tab-row{
-    border: 0px !important;
+div[tid="feyLD"] .lui-tab{
+    border-bottom: transparent !important;
 }
 
 
