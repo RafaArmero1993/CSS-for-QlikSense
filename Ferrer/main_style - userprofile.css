@@ -1,0 +1,71 @@
+.qvt-sheet-container #grid-wrap{
+    background-color: #eaf3f5;
+}
+
+div[tid="feyLD"]{
+    border: 0px !important;
+}
+
+div[tid="feyLD"] .qv-object-piechart, div[tid="feyLD"] .qv-object-scatterplot{
+    background: url("img/background_graphs - 2.png") !important;
+    background-repeat: no-repeat !important;
+    background-position: center !important;
+    background-size: 100% auto !important;
+}
+
+div[tid="feyLD"] *{
+    background-color: transparent !important;
+}
+
+div[tid="feyLD"] .lui-tab_text{
+    color: transparent !important;
+}
+
+div[tid="feyLD"] .lui-tab{
+    border-bottom: transparent !important;
+}
+
+div[tid="feyLD"] .qsc-item-wrapper{
+    border: 0px !important;
+}
+
+div[tid="Ezmpxv"] .qv-state-count-bar{
+    display:none;
+}
+
+div[tid="Ezmpxv"] .qv-collapsed-listbox, div[tid="Ezmpxv"] .qv-collapsed-listbox:hover{
+    background-color: transparent !important;
+    border: 0px;
+}
+
+div[tid="Ezmpxv"] .title{
+    text-align:center !important;
+}
+
+div[tid="gfwPtbs"]{
+    background: url("img/botton_Fliper.png");
+    background-repeat: no-repeat !important;
+    background-position: center !important;
+    background-size: 100% auto !important;
+}
+
+div[tid="kSbGm"]{
+    background: url("img/botton_Fliper_2.png");
+    background-repeat: no-repeat !important;
+    background-position: center !important;
+    background-size: 100% auto !important;
+}
+
+div[tid="AmWP"]{
+    background: url("img/botton_selected.png");
+    background-repeat: no-repeat !important;
+    background-position: center !important;
+    background-size: 50% auto !important;
+}
+
+div[tid="ENeZyQ"], div[tid="hUYxf"], div[tid="bpJbpa"], div[tid="drPDn"]{
+    background: url("img/botton_unselected.png");
+    background-repeat: no-repeat !important;
+    background-position: center !important;
+    background-size: 50% auto !important;
+}
