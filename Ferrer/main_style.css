@@ -29,7 +29,7 @@ div[tid="feyLD"]{
     border: 0px !important;
 }
 
-div[tid="feyLD"] .qv-object-piechart{
+div[tid="feyLD"] .qv-object-piechart, div[tid="feyLD"] .qv-object-scatterplot{
     background: url("img/background_graphs - 2.png") !important;
     background-repeat: no-repeat !important;
     background-position: center !important;
