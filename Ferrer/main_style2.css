@@ -27,7 +27,7 @@ div[tid="PajXCHu"]{
 
 div[tid="feyLD"] .qv-object-piechart{
     background: url("img/background_graphs - 2.png");
-    background-size: 100% 100%;
+    background-size: auto;
     border: 0px;
 }
 
