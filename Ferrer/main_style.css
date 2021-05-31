@@ -52,12 +52,6 @@ div[tid="feyLD"] .qsc-item-wrapper{
     border: 0px !important;
 }
 
-
-div[tid="Ezmpxv"] {
-    background-color: blue !important;
-    height: calc(100% - 0px) !important;
-}
-
 div[tid="Ezmpxv"] .qv-state-count-bar{
     display:none;
 }
