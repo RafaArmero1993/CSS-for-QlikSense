@@ -51,6 +51,10 @@ div[tid="feyLD"] .qsc-tab-row{
     display:none;
 }
 
+div[tid="feyLD"] .qsc-item_wrapper{
+    border: 0px !important;
+}
+
 div[tid="vgYJCJ"] {
     background-color: transparent;
     width: calc(76% - 0px) !important;
