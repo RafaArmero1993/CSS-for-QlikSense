@@ -51,7 +51,7 @@ div[tid="feyLD"] .qsc-tab-row{
     display:none;
 }
 
-div[tid="feyLD"] .qsc-item_wrapper{
+div[tid="feyLD"] .qsc-item_wrapper,div[tid="feyLD"] .qsc-tab-row{
     border: 0px !important;
 }
 
