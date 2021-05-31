@@ -54,7 +54,7 @@ div[tid="feyLD"] .qsc-item-wrapper{
 
 
 div[tid="Ezmpxv"] {
-    background-color: blue
+    background-color: blue !important;
     height: calc(100% - 0px) !important;
 }
 
