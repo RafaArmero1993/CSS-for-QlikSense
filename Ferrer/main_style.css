@@ -48,6 +48,10 @@ div[tid="feyLD"] .lui-tab{
     border-bottom: transparent !important;
 }
 
+div[tid="feyLD"] .qsc-item-wrapper{
+    border: 0px !important;
+}
+
 
 div[tid="Ezmpxv"] {
     background-color: blue
