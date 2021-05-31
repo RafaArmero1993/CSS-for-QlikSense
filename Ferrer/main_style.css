@@ -45,15 +45,9 @@ div[tid="feyLD"] *{
     background-color: transparent !important;
 }
 
-/*
-div[tid="feyLD"] .qv-object-header{
-    display:none !important;
+div[tid="feyLD"] .lui-tab_text{
+    color: transparent !important;
 }
-
-div[tid="feyLD"] .qsc-tab-row, div[tid="feyLD"] .sel-toolbar-list{
-    display:none !important;
-}
-*/
 
 div[tid="feyLD"] .qsc-item_wrapper,div[tid="feyLD"] .qsc-tab-row{
     border: 0px !important;
