@@ -28,6 +28,13 @@ div[tid="feBpWK"] .qv-object-piechart, div[tid="WzCmzRe"] .qv-object-piechart, d
     background-size: 75% auto !important;
 }
 
+div[tid="feBpWK"], div[tid="WzCmzRe"], div[tid="tXJUR"], div[tid="hwjPkpD"]{
+    width:calc(13.8889% - 4px) !important;
+    height:calc(22.2222% - 4px) !important;
+    left:calc(86.1111% + 2px) !important;
+    top:calc(11.1111% + 2px) !important;
+}
+
 div[tid="FaxBwgt"] .qv-state-count-bar{
     display:none;
 }
