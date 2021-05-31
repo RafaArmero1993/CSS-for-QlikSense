@@ -83,12 +83,12 @@ div[tid="AmWP"]{
     background: url("img/botton_selected.png");
     background-repeat: no-repeat !important;
     background-position: center !important;
-    background-size: 100% auto !important;
+    background-size: 50% auto !important;
 }
 
-div[tid="Jpksc"], div[tid="ENeZyQ"], div[tid="hUYxf"], div[tid="bpJbpa"], div[tid="drPDn"]{
+div[tid="ENeZyQ"], div[tid="hUYxf"], div[tid="bpJbpa"], div[tid="drPDn"]{
     background: url("img/botton_unselected.png");
     background-repeat: no-repeat !important;
     background-position: center !important;
-    background-size: 100% auto !important;
+    background-size: 50% auto !important;
 }
