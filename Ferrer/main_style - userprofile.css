@@ -4,9 +4,7 @@
 }
 */
 .qvt-sheet-container #grid-wrap{
-    background: url("img/background_secondary.png") !important;
-    background-repeat: repeat-y !important;
-    background-size: auto 100% !important;
+    background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 3%, rgba(234,243,245,1) 4%, rgba(234,243,245,1) 84%, rgba(255,255,255,1) 85%, rgba(255,255,255,1) 100%) !important;
 }
 
 div[tid="feBpWK"]{
@@ -174,4 +172,8 @@ div[tid="YZvCJq"] .kpi-title .text-container .value-container .value{
 div[tid="YZvCJq"] .kpi-title .text-container .compares-items .vcomp-container-1{
     text-align: left;
     margin-left: 0px !important;
+}
+
+.qv-object-gauge canvas{
+    border-radius: 200px !important;
 }
