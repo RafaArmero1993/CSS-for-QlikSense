@@ -30,7 +30,7 @@ div[tid="hwjPkpD"] .qv-object-piechart{
 div[tid="feBpWK"] .qv-object-piechart, div[tid="WzCmzRe"] .qv-object-piechart, div[tid="tXJUR"] .qv-object-piechart,div[tid="hwjPkpD"] .qv-object-piechart{
     background-repeat: no-repeat !important;
     background-position: center !important;
-    background-size: 75% auto !important;
+    background-size: 100% auto !important;
 }
 
 div[tid="feBpWK"], div[tid="WzCmzRe"], div[tid="tXJUR"], div[tid="hwjPkpD"]{
@@ -85,42 +85,42 @@ div[tid="PpqQgJ"]{
     background: url("img/icono_chrome.png");
     background-repeat: no-repeat !important;
     background-position: center !important;
-    background-size: 100% auto !important;
+    background-size: 75% auto !important;
 }
 
 div[tid="wzuBD"]{
     background: url("img/icono_firefox.png");
     background-repeat: no-repeat !important;
     background-position: center !important;
-    background-size: 100% auto !important;
+    background-size: 75% auto !important;
 }
 
 div[tid="jZknK"]{
     background: url("img/icono_edge.png");
     background-repeat: no-repeat !important;
     background-position: center !important;
-    background-size: 100% auto !important;
+    background-size: 75% auto !important;
 }
 
 div[tid="VtQsrH"]{
     background: url("img/icono_pc.png");
     background-repeat: no-repeat !important;
     background-position: center !important;
-    background-size: 100% auto !important;
+    background-size: 75% auto !important;
 }
 
 div[tid="ExSJcjz"]{
     background: url("img/icono_phone.png");
     background-repeat: no-repeat !important;
     background-position: center !important;
-    background-size: 100% auto !important;
+    background-size: 75% auto !important;
 }
 
 div[tid="nbZAn"]{
     background: url("img/icono_tablet.png");
     background-repeat: no-repeat !important;
     background-position: center !important;
-    background-size: 100% auto !important;
+    background-size: 75% auto !important;
 }
 
 div[tid="feBpWK"] *{
