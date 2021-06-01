@@ -47,6 +47,66 @@ div[tid="rcLjG"]{
     top:calc(27.7778% + 2px) !important;
 }
 
+div[tid="dgNRrJM"]{
+    width:calc(80.5556% - 4px) !important;
+    height:calc(33.3333% - 4px) !important;
+    left:calc(5.5556% + 2px) !important;
+    top:calc(27.7778% + 2px) !important;
+}
+
+div[tid="bPmmTY"]{
+    width:calc(5.5556% - 4px) !important;
+    height:calc(11.1111% - 4px) !important;
+    left:calc(80.5556% + 2px) !important;
+    top:calc(11.1111% + 2px) !important;
+}
+
+div[tid="YmPyHfj"]{
+    width:calc(13.8889% - 4px) !important;
+    height:calc(11.1111% - 4px) !important;
+    left:calc(66.6667% + 2px) !important;
+    top:calc(11.1111% + 2px) !important;
+}
+
+div[tid="XjxPVA"]{
+    width:calc(13.8889% - 4px) !important;
+    height:calc(11.1111% - 4px) !important;
+    left:calc(52.7778% + 2px) !important;
+    top:calc(11.1111% + 2px) !important;
+}
+
+div[tid="UVbneNk"]{
+    width:calc(13.8889% - 4px) !important;
+    height:calc(11.1111% - 4px) !important;
+    left:calc(38.8889% + 2px) !important;
+    top:calc(11.1111% + 2px) !important;
+}
+
+div[tid="ubxNsz"]{
+    width:calc(13.8889% - 4px) !important;
+    height:calc(11.1111% - 4px) !important;
+    left:calc(25% + 2px) !important;
+    top:calc(11.1111% + 2px) !important;
+}
+
+div[tid="YZvCJq"]{
+    width:calc(13.8889% - 4px) !important;
+    height:calc(11.1111% - 4px) !important;
+    left:calc(11.1111% + 2px) !important;
+    top:calc(11.1111% + 2px) !important;
+}
+
+div[tid="bZRMpfS"]{
+    width:calc(5.5556% - 4px) !important;
+    height:calc(11.1111% - 4px) !important;
+    left:calc(5.5556% + 2px) !important;
+    top:calc(11.1111% + 2px) !important;
+}
+
+div[tid="FaxBwgt"]{
+    width:calc(72.2222% - 4px) !important;
+}
+
 div[tid="FaxBwgt"] .qv-state-count-bar{
     display:none;
 }
