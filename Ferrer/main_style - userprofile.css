@@ -48,10 +48,17 @@ div[tid="rcLjG"]{
 }
 
 div[tid="dgNRrJm"]{
-    width:calc(80.5556% - 4px) !important;
-    height:calc(33.3333% - 4px) !important;
+    width:calc(72.2222% - 4px) !important;
+    height:calc(38.8889% - 4px) !important;
     left:calc(5.5556% + 2px) !important;
     top:calc(27.7778% + 2px) !important;
+}
+
+div[tid="xJkNUj"]{
+    width:calc(72.2222% - 4px) !important;
+    height:calc(38.8889% - 4px) !important;
+    left:calc(5.5556% + 2px) !important;
+    top:calc(61.1111% + 2px) !important;
 }
 
 div[tid="bPmmTY"]{
