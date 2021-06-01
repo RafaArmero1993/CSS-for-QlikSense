@@ -1,0 +1,44 @@
+.qvt-sheet-container #grid-wrap{
+    background-color: #f2e9d8;
+}
+
+div[tid="TJawmWW"] .qv-state-count-bar{
+    display:none;
+}
+
+div[tid="TJawmWW"] .qv-collapsed-listbox, div[tid="Ezmpxv"] .qv-collapsed-listbox:hover{
+    background-color: transparent !important;
+    border: 0px;
+}
+
+div[tid="TJawmWW"] .title{
+    text-align:center !important;
+}
+
+div[tid="cXCQKYz"]{
+    background: url("img/botton_Fliper.png");
+    background-repeat: no-repeat !important;
+    background-position: center !important;
+    background-size: 100% auto !important;
+}
+
+div[tid="KAryJn"]{
+    background: url("img/botton_Fliper_2.png");
+    background-repeat: no-repeat !important;
+    background-position: center !important;
+    background-size: 100% auto !important;
+}
+
+div[tid="EKbSg"]{
+    background: url("img/botton_selected.png");
+    background-repeat: no-repeat !important;
+    background-position: center !important;
+    background-size: 50% auto !important;
+}
+
+div[tid="QcjKBf"], div[tid="mFpwR"], div[tid="UXMzEG"], div[tid="Vpwbnk"]{
+    background: url("img/botton_unselected.png");
+    background-repeat: no-repeat !important;
+    background-position: center !important;
+    background-size: 50% auto !important;
+}
