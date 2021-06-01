@@ -166,3 +166,12 @@ div[tid="XjxPVA"] .qv-inner-object{
 div[tid="YmPyHfj"] .qv-inner-object{
     border-radius: 10px !important;
 }
+
+div[tid="YZvCJq"] .kpi-title .text-container .value-container .value{
+    text-align: left;
+}
+
+div[tid="YZvCJq"] .kpi-title .text-container .compares-items .vcomp-container-1{
+    text-align: left;
+    margin-left: 0px !important;
+}
