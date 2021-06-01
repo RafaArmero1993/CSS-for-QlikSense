@@ -2,16 +2,16 @@
     background-color: #f2e9d8;
 }
 
-div[tid="TJawmWW"] .qv-state-count-bar{
+div[tid="TJamWW"] .qv-state-count-bar{
     display:none;
 }
 
-div[tid="TJawmWW"] .qv-collapsed-listbox, div[tid="Ezmpxv"] .qv-collapsed-listbox:hover{
+div[tid="TJamWW"] .qv-collapsed-listbox, div[tid="Ezmpxv"] .qv-collapsed-listbox:hover{
     background-color: transparent !important;
     border: 0px;
 }
 
-div[tid="TJawmWW"] .title{
+div[tid="TJamWW"] .title{
     text-align:center !important;
 }
 
