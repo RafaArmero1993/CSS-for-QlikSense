@@ -47,7 +47,7 @@ div[tid="rcLjG"]{
     top:calc(27.7778% + 2px) !important;
 }
 
-div[tid="dgNRrJM"]{
+div[tid="dgNRrJm"]{
     width:calc(80.5556% - 4px) !important;
     height:calc(33.3333% - 4px) !important;
     left:calc(5.5556% + 2px) !important;
@@ -59,6 +59,13 @@ div[tid="bPmmTY"]{
     height:calc(11.1111% - 4px) !important;
     left:calc(80.5556% + 2px) !important;
     top:calc(11.1111% + 2px) !important;
+}
+
+div[tid="bPmmTY"]{
+    background: url("img/right-arrow.png");
+    background-repeat: no-repeat !important;
+    background-position: center !important;
+    background-size: 100% auto !important;
 }
 
 div[tid="YmPyHfj"]{
@@ -101,6 +108,13 @@ div[tid="bZRMpfS"]{
     height:calc(11.1111% - 4px) !important;
     left:calc(5.5556% + 2px) !important;
     top:calc(11.1111% + 2px) !important;
+}
+
+div[tid="bZRMpfS"]{
+    background: url("img/left-arrow.png");
+    background-repeat: no-repeat !important;
+    background-position: center !important;
+    background-size: 100% auto !important;
 }
 
 div[tid="FaxBwgt"] .qv-state-count-bar{
