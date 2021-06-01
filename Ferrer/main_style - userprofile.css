@@ -81,6 +81,48 @@ div[tid="nrBmHf"], div[tid="bLDzJn"], div[tid="KKdPHvR"], div[tid="bvjgP"]{
     background-size: 50% auto !important;
 }
 
+div[tid="PpqQgJ"]{
+    background: url("img/icono_chrome.png");
+    background-repeat: no-repeat !important;
+    background-position: center !important;
+    background-size: 100% auto !important;
+}
+
+div[tid="wzuBD"]{
+    background: url("img/icono_firefox.png");
+    background-repeat: no-repeat !important;
+    background-position: center !important;
+    background-size: 100% auto !important;
+}
+
+div[tid="jZknK"]{
+    background: url("img/icono_edge.png");
+    background-repeat: no-repeat !important;
+    background-position: center !important;
+    background-size: 100% auto !important;
+}
+
+div[tid="VtQsrH"]{
+    background: url("img/icono_pc.png");
+    background-repeat: no-repeat !important;
+    background-position: center !important;
+    background-size: 100% auto !important;
+}
+
+div[tid="ExSJcjz"]{
+    background: url("img/icono_phone.png");
+    background-repeat: no-repeat !important;
+    background-position: center !important;
+    background-size: 100% auto !important;
+}
+
+div[tid="nbZAn"]{
+    background: url("img/icono_tablet.png");
+    background-repeat: no-repeat !important;
+    background-position: center !important;
+    background-size: 100% auto !important;
+}
+
 div[tid="feBpWK"] *{
     background-color: transparent !important;
 }
