@@ -1,5 +1,12 @@
+/*
 .qvt-sheet-container #grid-wrap{
     background-color: #eaf3f5;
+}
+*/
+.qvt-sheet-container #grid-wrap{
+    background: url("img/background_secondary.png") !important;
+    background-repeat: y-repeat !important;
+    background-size: auto 100% !important;
 }
 
 div[tid="feBpWK"]{
@@ -141,5 +148,21 @@ div[tid="hwjPkpD"] .qsc-item-wrapper{
 }
 
 div[tid="YZvCJq"] .qv-inner-object{
+    border-radius: 10px !important;
+}
+
+div[tid="ubxNsz"] .qv-inner-object{
+    border-radius: 10px !important;
+}
+
+div[tid="UVbneNk"] .qv-inner-object{
+    border-radius: 10px !important;
+}
+
+div[tid="XjxPVA"] .qv-inner-object{
+    border-radius: 10px !important;
+}
+
+div[tid="YmPyHfj"] .qv-inner-object{
     border-radius: 10px !important;
 }
