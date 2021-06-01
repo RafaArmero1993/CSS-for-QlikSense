@@ -103,10 +103,6 @@ div[tid="bZRMpfS"]{
     top:calc(11.1111% + 2px) !important;
 }
 
-div[tid="FaxBwgt"]{
-    width:calc(72.2222% - 4px) !important;
-}
-
 div[tid="FaxBwgt"] .qv-state-count-bar{
     display:none;
 }
