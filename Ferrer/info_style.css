@@ -1,0 +1,6 @@
+.qvt-sheet-container #grid-wrap{
+    background: url("img/fondo.png");
+    background-repeat: no-repeat !important;
+    background-position: center !important;
+    background-size: 50% auto !important;
+}
